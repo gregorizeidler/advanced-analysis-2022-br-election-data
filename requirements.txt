@@ -1,0 +1,22 @@
+streamlit
+pandas
+matplotlib
+numpy
+scikit-learn
+pyarrow
+plotly
+folium
+streamlit-folium
+seaborn
+statsmodels
+scipy
+xgboost
+shap
+# tensorflow  # Removido - não disponível para Python 3.13 no macOS ARM
+shapely
+geopandas
+joblib
+openpyxl
+dask
+hdbscan
+lime 
