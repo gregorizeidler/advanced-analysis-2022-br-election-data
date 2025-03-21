@@ -2,6 +2,11 @@
 
 This project consists of an interactive dashboard created with Streamlit for advanced analysis of Brazilian election data from 2022, focusing on the identification of atypical statistical patterns and sophisticated statistical analyses.
 
+## Video Demonstration
+
+A video demonstration of this project is available here:
+[Watch Demo Video](https://drive.google.com/file/d/1cfEhRCeYBOLD_QGAARmuhVEIGkWQyzmG/view?usp=sharing)
+
 ## Main Features
 
 - **Modern Interface**: Dashboard organized in tabs for easy navigation
